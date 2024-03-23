@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //Two numbers
-        System.out.println("Введите два числа a и b");
+        System.out.println("Введите два целых числа a и b");
         Scanner console = new Scanner(System.in);
         int a = console.nextInt();
         int b = console.nextInt();
